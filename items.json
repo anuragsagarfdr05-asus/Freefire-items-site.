@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1001",
+    "name": "M1014 Green Flame Draco",
+    "code": "FF-M1014-DRACO",
+    "icon": "icons/m1014.png"
+  },
+  {
+    "id": "1002",
+    "name": "PARAFAL Lore Cyclone",
+    "code": "FF-PARAFAL-CYC",
+    "icon": "icons/para.png"
+  }
+]
